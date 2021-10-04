@@ -1,0 +1,25 @@
+.form-control {
+    margin: 10px;
+}
+
+.form-select{
+    margin: 10px;
+}
+
+.select-div{
+    margin: 10px;
+}
+
+.inner-div {
+    display: flex;
+    flex-wrap: wrap;
+} 
+
+.flex-item {
+    width: 30%;
+}
+
+.child-div{
+    border-style: ridge;
+    margin: 5px;
+}

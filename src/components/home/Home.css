@@ -1,0 +1,20 @@
+.btn{
+    margin: 20px;
+}
+
+.nav-link{
+    color: white;
+}
+
+.div-right{
+    float: right;
+}
+
+.homeinfo{
+    margin: 20px;
+    max-width: 700px;
+}
+
+.form-inline{
+    display: inline;
+}

@@ -1,0 +1,43 @@
+.form-select{
+    margin: 10px;
+}
+
+.select-div{
+    margin: 10px;
+}
+
+.inner-div {
+    display: flex;
+    flex-wrap: wrap;
+} 
+
+.flex-item {
+    width: 30%;
+    margin: 10px;
+}
+
+.textarea-div{
+    margin: 10px;
+}
+
+.child-div{
+    border-style: ridge;
+    margin: 5px;
+}
+
+.error-text{
+    color: red;
+    margin-left: 10px;
+}
+
+.p-note{
+    color:red;
+}
+
+.dob-div{
+    display: inline-flex;
+}
+
+.dob-label{
+    margin: 10px;
+}
